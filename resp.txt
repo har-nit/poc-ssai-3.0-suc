@@ -1,0 +1,32 @@
+CASE 2 Request body
+
+{
+	"videoUri":"https://drive.google.com/u/0/uc?id=1TphrIW_L3Cu5yKVqzDdJNqz20Na8lKTP&export=download",
+	"ads":[
+		{
+		   "adUri":"https://drive.google.com/u/0/uc?id=1ImopSD0Er-SNVY2AyLyL5rD15DJL6fh9&export=download",
+                  "adInsertionPoints":"120000"
+		},
+		{
+		   "adUri":"https://drive.google.com/u/0/uc?id=1y_FclOfcG10NG8sXiwqX7DLzS4BvRiXk&export=download",
+                  "adInsertionPoints":"180000,240000"
+		}
+		]
+}   
+
+
+CASE 1 Request body
+
+{
+	"videoUri":"https://drive.google.com/u/0/uc?id=1jlkfLbSh_n4oqPs9ZbvTCRSBLXO5pvJv&export=download",
+	"ads":[
+		{
+		   "adUri":"https://drive.google.com/u/0/uc?id=1io0tWDh_TejA1OxTBcOSMCUzCPRRQzT0&export=download",
+                  "adInsertionPoints":"120000"
+		},
+		{
+		   "adUri":"https://drive.google.com/u/0/uc?id=14pZt0tv_0KNCRPzTzsuKy8tXk_TCVv7G&export=download",
+                  "adInsertionPoints":"180000,240000"
+		}
+		]
+}   

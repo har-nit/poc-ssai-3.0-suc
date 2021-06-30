@@ -1,0 +1,15 @@
+bitstring==3.1.7
+certifi==2021.5.30
+chardet==4.0.0
+ffmpeg-python==0.2.0
+future==0.18.2
+idna==3.2
+iso8601==0.1.14
+m3u8==0.9.0
+m3u8downloader==0.10.1
+mpegdash==0.2.0
+python-ffmpeg-video-streaming==0.1.14
+requests==2.25.1
+scte==1.1.4
+urllib3==1.26.5
+wells==1.5.0

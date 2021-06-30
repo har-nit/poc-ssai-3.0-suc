@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: scte
+Version: 1.1.4
+Summary: Tools for working with SCTE standards.
+Home-page: https://github.com/jamesfining/scte
+Author: James Fining
+Author-email: james.fining@nbcuni.com
+License: apache-2.0
+Download-URL: https://github.com/jamesfining/scte/archive/v1.1.4.tar.gz
+Description: UNKNOWN
+Keywords: scte,scte35,transport,stream,broadcast
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Multimedia
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
