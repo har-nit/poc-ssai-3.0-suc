@@ -15,4 +15,7 @@ Case2 - Source file format is in MP4(.mp4)
         Link route for postman - http://[localhost]:[port-no.]/case2
         
         
-       
+For code execution implement the virtual enviornment by running the below line in the IDE terminal,
+- env\Scripts\activate
+
+
